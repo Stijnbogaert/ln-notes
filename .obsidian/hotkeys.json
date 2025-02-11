@@ -1,0 +1,112 @@
+{
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:close-window": [],
+  "editor:toggle-comments": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "note-composer:split-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "note-composer:extract-heading": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ]
+}
