@@ -11,10 +11,14 @@
             "id": "2fd3814b82a237fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sanity check.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "sanity check"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sanity check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for sanity check"
             }
           },
           {
@@ -207,6 +212,7 @@
   },
   "active": "2fd3814b82a237fc",
   "lastOpenFiles": [
+    "sanity check.md",
     "Glassware brands.md",
     "projects/hanne's tafel shape-truescale.svg",
     "trap ontwerp.md",
@@ -236,7 +242,6 @@
     "projects/photoboards.md",
     "moondrop space travel controls.md",
     "sui/nye shoppinglijstje.md",
-    "nye prep.md",
     "cf-emil.png",
     "img/image.jpg",
     "img/extend-qd.png",
