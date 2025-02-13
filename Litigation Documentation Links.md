@@ -4,4 +4,4 @@
 
 https://confluence.lexisnexis.dev/display/LA/Architecture
 
-[parser code](https://tfs-glo-lexisadvance.visualstudio.com/iLabs/_git/4086-transactional-upload-analyze?path=%2Fparser_service)
+[universal parser repo](https://tfs-glo-lexisadvance.visualstudio.com/iLabs/_git/4086-transactional-upload-analyze?path=%2Fparser_service)
