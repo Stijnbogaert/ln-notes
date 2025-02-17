@@ -1,0 +1,3 @@
+- [ ] get UA data in s3 and create first metrics readout
+- [ ] eval UP
+- [ ] 
