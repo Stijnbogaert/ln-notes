@@ -34,14 +34,6 @@
   ],
   "workspace:close-window": [],
   "editor:toggle-comments": [],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
   "file-explorer:open": [
     {
       "modifiers": [
@@ -107,6 +99,14 @@
         "Shift"
       ],
       "key": "D"
+    }
+  ],
+  "app:open-vault": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
     }
   ]
 }
