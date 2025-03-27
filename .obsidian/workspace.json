@@ -11,10 +11,14 @@
             "id": "45df8ea0a710cb41",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Litigation Documentation Links.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Litigation Documentation Links"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Litigation Documentation Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Litigation Documentation Links"
             }
           },
           {
@@ -208,9 +213,9 @@
   },
   "active": "45df8ea0a710cb41",
   "lastOpenFiles": [
+    "exploring-pipeline.md",
     "Litigation Documentation Links.md",
     "exploring-pipeline.md~",
-    "exploring-pipeline.md",
     "week 8 notes.md",
     "sanity check.md",
     "Meeting Notes/LN Raleigh visit litigation/2025-02-12.md",
