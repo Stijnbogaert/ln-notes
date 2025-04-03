@@ -9,8 +9,7 @@
 - opensearch -> april
 - FDR, twc live (bypass for all live customers) -> may
 - enrichment framework -> may
-
-- ai sumary -> june
+- ai summary -> june
 
 
 ## September
@@ -18,5 +17,18 @@
 - ui endpoints
 - make it scale
 
+
+# Deadlines
+## april
+- decide strategy CoA (mid)
+- datamodel + loadtest opensearch
+- enrichment service (or part of the processor)
+
+## May
+- self hosted deployments
+- FDR
+
+## June
+- ai summary
 # Notes
 -  
