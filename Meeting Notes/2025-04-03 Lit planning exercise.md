@@ -5,16 +5,18 @@
 
 # Suggestions for intermediaries
 ## June
-- opensearch
-- FDR, twc live (bypass for all live customers)
-- enrichment framework
-- ai sumary
+
+- opensearch -> april
+- FDR, twc live (bypass for all live customers) -> may
+- enrichment framework -> may
+
+- ai sumary -> june
 
 
 ## September
 - doc conversion
-- retrieal
--  
+- ui endpoints
+- make it scale
 
 # Notes
 -  
