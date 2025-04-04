@@ -11,10 +11,14 @@
             "id": "af1598c22326d852",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Litigation Documentation Links.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Litigation Documentation Links"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Litigation Documentation Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Litigation Documentation Links"
             }
           },
           {
@@ -208,6 +213,8 @@
   },
   "active": "af1598c22326d852",
   "lastOpenFiles": [
+    "Product data notes.md",
+    "dimensionality reduction.md",
     "Meeting Notes/2025-04-03 Lit planning exercise.md",
     "Litigation Documentation Links.md",
     "exploring-pipeline.md",
@@ -237,8 +244,6 @@
     "finance concepts to clarify.md",
     "dzama cuvee noire prestige.md",
     "Balustrades.md",
-    "2024-11-25.md",
-    "second cube proxy order.md",
     "cf-emil.png",
     "img/image.jpg",
     "img/extend-qd.png",
