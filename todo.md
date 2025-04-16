@@ -11,7 +11,7 @@
 	- [ ] UP
 	- [ ] taxo?
 	- [ ] gene's classifier?
-- [ ] [[opensearch-performance]]
+- [x] [[opensearch-performance]]
 - [ ] ado board
 
 # Old
