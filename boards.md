@@ -2,6 +2,8 @@
 - [DMS Litigation](https://tfs-glo-lexisadvance.visualstudio.com/LexisNexis/_boards/board/t/DMS%20Litigation/Stories)
 - [DMS Data Pipeline](https://tfs-glo-lexisadvance.visualstudio.com/LexisNexis/_boards/board/t/DMS%20Data%20Pipeline/Stories)
 
+easiest is to open backlog and set tag filters: [create+lit]
+
 
 # Queries
 
