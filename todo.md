@@ -7,7 +7,7 @@
 	- [ ] check with privacy team: meeting planned on april 22 
 	- [ ] plan: after privacy team and sofie's aproval for argument/document
 - [ ] container deployment
-	- [ ] give jozeph the needed info: AD group, asset id, asset area id
+	- [x] give jozeph the needed info: AD group, asset id, asset area id
 	- [ ] UP
 	- [ ] taxo?
 	- [ ] gene's classifier?
