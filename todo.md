@@ -12,7 +12,7 @@
 	- [ ] taxo?
 	- [ ] gene's classifier?
 - [ ] [[opensearch-performance]]
-
+- [ ] ado board
 
 # Old
 - [x] set up note syncing for this vault
