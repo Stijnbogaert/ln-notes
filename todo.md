@@ -4,9 +4,10 @@
 	- [ ] align with taxonomy
 	- [ ] set up with concepts
 - [ ] ai summarizer
-	- [ ] check with privacy team
+	- [ ] check with privacy team: meeting planned on april 22 
 	- [ ] plan
 - [ ] container deployment
+	- [ ] give jozeph the needed info: AD group, asset id, asset area id
 	- [ ] UP
 	- [ ] taxo?
 	- [ ] gene's classifier?
