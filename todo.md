@@ -3,7 +3,7 @@
 - [ ] Cause of Action
 	- [ ] align with taxonomy
 	- [ ] set up with concepts
-- [ ] ai summarizer
+- [ ] [[ai summarizer]]
 	- [ ] check with privacy team: meeting planned on april 22 
 	- [ ] plan: after privacy team and sofie's aproval for argument/document
 - [ ] container deployment
