@@ -13,6 +13,8 @@
 	- [ ] gene's classifier?
 - [x] [[opensearch-performance]]
 - [ ] ado board
+- [ ] fix tyler's access
+
 
 # Old
 - [x] set up note syncing for this vault
