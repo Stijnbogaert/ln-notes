@@ -1,5 +1,25 @@
 # April 2025
 
+- [ ] verify some contract type flows
+	- infi -> 512 mapping
+	- live: NER used? (payload)
+	- when live flow is triggered
+- [ ] intelligize questions
+	- number of docs recognized as contracts
+	- igz versus hm classification
+
+
+
+- [ ] check with Julien, Trans lit results
+- [ ] check with sofie:
+	- [ ] if the designs are ready
+	- [ ] what to summarize
+- [ ] ado board
+- [ ] pdf -> docx converter: Prio
+	- praveen: put someone on the poseidon team we know to push the roadmap
+- [ ] set up test accounts
+	- [ ] perf
+	- [ ] quality
 - [ ] Cause of Action
 	- [ ] align with taxonomy
 	- [ ] set up with concepts
@@ -12,9 +32,8 @@
 	- [ ] taxo?
 	- [ ] gene's classifier?
 - [x] [[opensearch-performance]]
-- [ ] ado board
 - [ ] fix tyler's access
-
+- [ ] get onboarding video's
 
 # Old
 - [x] set up note syncing for this vault
