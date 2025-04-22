@@ -4,7 +4,7 @@
 	- infi -> 512 mapping
 	- live: NER used? (payload)
 	- when live flow is triggered
-- [ ] intelligize questions
+- [ ] [intelligize questions](https://teams.microsoft.com/l/message/19:meeting_MTAzNjQ5ODgtMjM0YS00ZWQ4LTljNjgtM2VhNjk4MjEzMjQ0@thread.v2/1745240457137?context=%7B%22contextType%22%3A%22chat%22%7D)
 	- number of docs recognized as contracts
 	- igz versus hm classification
 
