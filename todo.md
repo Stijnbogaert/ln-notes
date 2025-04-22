@@ -8,8 +8,7 @@
 	- number of docs recognized as contracts
 	- igz versus hm classification
 
-
-
+- [ ] deploy 
 - [ ] check with Julien, Trans lit results
 - [ ] check with sofie:
 	- [ ] if the designs are ready
@@ -34,6 +33,7 @@
 - [x] [[opensearch-performance]]
 - [ ] fix tyler's access
 - [ ] get onboarding video's
+- [ ] get SLA's from services
 
 # Old
 - [x] set up note syncing for this vault
