@@ -1,4 +1,5 @@
-# April 2025
+# Todo
+## April 2025
 
 - [ ] verify some contract type flows
 	- infi -> 512 mapping
@@ -25,6 +26,8 @@
 - [ ] [[ai summarizer]]
 	- [ ] check with privacy team: meeting planned on april 22 
 	- [ ] plan: after privacy team and sofie's aproval for argument/document
+	- [ ] rag playground/llm proxy
+	- [ ] experiment with some prompts
 - [ ] container deployment
 	- [x] give jozeph the needed info: AD group, asset id, asset area id
 	- [ ] UP
@@ -35,7 +38,7 @@
 - [ ] get onboarding video's
 - [ ] get SLA's from services
 
-# Old
+## Old
 - [x] set up note syncing for this vault
 - [x] Complete security training
 	- [x] set up vanta (wait for new laptop)
