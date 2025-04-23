@@ -11,4 +11,8 @@ private data could b contained in the document, so the docs should be handled wi
 
 | service | used by|
 | ------- | -------|
-|doc classifier||
+|three way classifier||
+|gene's classifier||
+|lsa entity extraction||
+|citation finder||
+|||
