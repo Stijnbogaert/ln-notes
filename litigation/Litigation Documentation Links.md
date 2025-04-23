@@ -4,6 +4,9 @@
 
 https://confluence.lexisnexis.dev/display/LA/Architecture
 
+
+[metadata extraction overview](https://confluence.lexisnexis.dev/pages/viewpage.action?pageId=598224412)
+
 [universal parser repo](https://tfs-glo-lexisadvance.visualstudio.com/iLabs/_git/4086-transactional-upload-analyze?path=%2Fparser_service)
 
 [ADO board](https://tfs-glo-lexisadvance.visualstudio.com/LexisNexis/_backlogs/backlog/DMS/Initiatives)
