@@ -9,4 +9,6 @@ docs on
 ## Privacy Concerns
 private data could b contained in the document, so the docs should be handled with care with regards to LLM services 
 
-
+| service | used by|
+| ------- | -------|
+|doc classifier||
