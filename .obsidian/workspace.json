@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thingy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,6 +214,7 @@
   },
   "active": "93fb7c9b1b176719",
   "lastOpenFiles": [
+    "buckets.md",
     "sla exercise.md",
     "Meeting Notes/2025-04-23 coa.md",
     "todo.md",
@@ -246,7 +247,6 @@
     "archive/architecture",
     "archive/aws setup.md",
     "archive/exploration/Clause recommendation.md",
-    "archive/exploration/Clause advantage analysis.md",
     "archive/exploration",
     "archive/Excalidraw",
     "archive/Dailies",
