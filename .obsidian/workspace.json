@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,8 +206,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "93fb7c9b1b176719",
+  "active": "ce5a8cb6692924fa",
   "lastOpenFiles": [
+    "product-analytics/Product data notes.md",
     "buckets.md",
     "sla exercise.md",
     "Meeting Notes/2025-04-23 coa.md",
@@ -224,7 +224,6 @@
     "litigation/2025-04-10-sme-parser-eval.md",
     "exporation/Clause advantage analysis.md",
     "exporation/Clause recommendation.md",
-    "product-analytics/Product data notes.md",
     "product-analytics",
     "litigation/Litigation Documentation Links.md",
     "litigation",
