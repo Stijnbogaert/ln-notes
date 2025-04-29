@@ -11,14 +11,12 @@
             "id": "d862df1db34ed90d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "litigation/opensearch-performance.md",
-                "mode": "source",
-                "source": false
+                "file": "archive/Excalidraw/Clause advantage analysis 2024-07-03 16.55.40.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "opensearch-performance"
+              "icon": "excalidraw-icon",
+              "title": "Clause advantage analysis 2024-07-03 16.55.40.excalidraw"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "litigation/opensearch-performance.md",
+                "file": "archive/Excalidraw/Clause advantage analysis 2024-07-03 16.55.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for opensearch-performance"
+              "title": "Backlinks for Clause advantage analysis 2024-07-03 16.55.40.excalidraw"
             }
           },
           {
@@ -208,11 +206,13 @@
       "command-palette:Open command palette": false,
       "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "d862df1db34ed90d",
   "lastOpenFiles": [
+    "litigation/opensearch-performance.md",
     "product-analytics/Product data notes.md",
     "buckets.md",
     "sla exercise.md",
@@ -223,7 +223,6 @@
     "todo.md~",
     "ai summarizer.md",
     "boards.md~",
-    "litigation/opensearch-performance.md",
     "opensearch-performance.md",
     "litigation/building-container-images.md",
     "litigation/2025-04-10-sme-parser-eval.md",
