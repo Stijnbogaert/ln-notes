@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 409.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,10 +210,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d862df1db34ed90d",
+  "active": "ce5a8cb6692924fa",
   "lastOpenFiles": [
-    "exporation/Clause advantage analysis.md",
     "archive/Excalidraw/Clause advantage analysis 2024-07-03 16.55.40.excalidraw.md",
+    "exporation/Clause advantage analysis.md",
     "litigation/opensearch-performance.md",
     "product-analytics/Product data notes.md",
     "buckets.md",
