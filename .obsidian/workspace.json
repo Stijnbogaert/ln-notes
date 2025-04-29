@@ -11,12 +11,14 @@
             "id": "d862df1db34ed90d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "archive/Excalidraw/Clause advantage analysis 2024-07-03 16.55.40.excalidraw.md"
+                "file": "Brecht Carnewal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Clause advantage analysis 2024-07-03 16.55.40.excalidraw"
+              "icon": "lucide-file",
+              "title": "Brecht Carnewal"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archive/Excalidraw/Clause advantage analysis 2024-07-03 16.55.40.excalidraw.md",
+                "file": "Brecht Carnewal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Clause advantage analysis 2024-07-03 16.55.40.excalidraw"
+              "title": "Backlinks for Brecht Carnewal"
             }
           },
           {
@@ -210,9 +212,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce5a8cb6692924fa",
+  "active": "d862df1db34ed90d",
   "lastOpenFiles": [
     "archive/Excalidraw/Clause advantage analysis 2024-07-03 16.55.40.excalidraw.md",
+    "Brecht Carnewal.md",
     "exporation/Clause advantage analysis.md",
     "litigation/opensearch-performance.md",
     "product-analytics/Product data notes.md",
@@ -244,7 +247,6 @@
     "archive/architecture/indexing v2.md",
     "archive/architecture/Product.md",
     "archive/architecture",
-    "archive/aws setup.md",
     "archive/exploration",
     "archive/Excalidraw",
     "archive/Dailies",
